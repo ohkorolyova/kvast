@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Кваст</title>
+  </head>
+  <body>
+   <header>
+     <div class="header-top">
+      <img src="img/logo.png" class="logo" alt="Кваст" width="" height="">
+      <nav>
+       <ul class="header-list">
+        <li><a href="#">История</a></li>
+        <li><a href="#">Производство</a></li>
+        <li><a href="#">Ассортимент</a></li>
+        <li><a href="#">Где купить</a></li>
+       </ul>
+      </nav>
+     </div>
+     <div>
+      <p class="header-losung">Крафтовый квас всему голова!</p>
+     </div>
+   </header>
+   <main>
+
+   </main>
+   <footer>
+
+   </footer>
+  </body>
+</html>
