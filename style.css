@@ -461,6 +461,10 @@ header {
     box-sizing: border-box;
 }
 
+.order-items .input-style[textarea]::placeholder {
+    line-height: inherit;
+}
+
 .order-items .input-style:not([type="submit"]):not([type="checkbox"]):not(textarea) {
     height: 50px;
 }
